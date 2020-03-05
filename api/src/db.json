@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "authorId": "0",
+      "id": "1",
+      "title": "Titulo do post",
+      "text": "Texto do post"
+    }
+  ]
+}
